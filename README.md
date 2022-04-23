@@ -1,3 +1,3 @@
 # botanic-garden
 onoshkin ivan
- https://onoshkinivan.github.io/botanic-garden/
+https://onoshkinivan.github.io/botanic-garden/
